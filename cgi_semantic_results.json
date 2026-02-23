@@ -1,0 +1,89 @@
+{
+  "When": {
+    "KL_raw": 0.26272647550084904,
+    "JSD": 0.06150579320761024,
+    "Spearman_rho": 0.9705710236720804,
+    "TopK_Jaccard": 0.42857142857142855,
+    "H_output_before": 3.9364378237513824,
+    "H_output_after": 4.3174429597995205,
+    "Delta_H_output": 0.3810051360481381,
+    "Attn_H_before": 1.0100886261365571,
+    "Attn_H_after": 1.2804996558997876,
+    "Delta_Attn_H": 0.2704110297632305,
+    "Corpus_Familiarity": 0.0,
+    "KL_normalized": 0.0,
+    "Gen_Unique_Before": 1.0,
+    "Gen_Unique_After": 1.0,
+    "Gen_EditDist_Before": 0.7240593181830769,
+    "Gen_EditDist_After": 0.7530067614824423,
+    "Delta_Diversity": 0.028947443299365383,
+    "Sample_Continuations_Base": [
+      " I just want to be here for the long haul. I feel like I'm out of the loop. I'm not going to be able to stay",
+      " I've been on my way back to school, and I've been doing my best to help myself, and I'm just happy that I've got",
+      " I am not going to let that happen. I am going to be happy, happy. I am going to be happy.\n\n\n\n\n"
+    ],
+    "Sample_Continuations_After": [
+      " I just don't know. I just want to do what I can to make this happen. I don't want to be the one that says,",
+      " I didn't know what it was, I just felt like I was in a situation where I was living in the same situation.\n\n\n\n",
+      "\n\n\"I really don't know. I didn't know.\"\n\"I guess I just felt like it was over. I thought I had"
+    ]
+  },
+  "Why": {
+    "KL_raw": 0.38814110957329057,
+    "JSD": 0.09389566830999921,
+    "Spearman_rho": 0.9773450030121561,
+    "TopK_Jaccard": 0.42857142857142855,
+    "H_output_before": 3.9364378237513824,
+    "H_output_after": 3.6526525512313506,
+    "Delta_H_output": -0.28378527252003183,
+    "Attn_H_before": 1.0100886261365571,
+    "Attn_H_after": 1.458072040982121,
+    "Delta_Attn_H": 0.4479834148455639,
+    "Corpus_Familiarity": 0.05555555555555555,
+    "KL_normalized": 0.02156339497629392,
+    "Gen_Unique_Before": 1.0,
+    "Gen_Unique_After": 1.0,
+    "Gen_EditDist_Before": 0.7240593181830769,
+    "Gen_EditDist_After": 0.7923313915033606,
+    "Delta_Diversity": 0.06827207332028373,
+    "Sample_Continuations_Base": [
+      " I just want to be here for the long haul. I feel like I'm out of the loop. I'm not going to be able to stay",
+      " I've been on my way back to school, and I've been doing my best to help myself, and I'm just happy that I've got",
+      " I am not going to let that happen. I am going to be happy, happy. I am going to be happy.\n\n\n\n\n"
+    ],
+    "Sample_Continuations_After": [
+      " I just feel a little stuck in my career. I feel like I've lost everything.\"",
+      "\u201d\n\n\nIn his memoirs, he says he became a \"troubled man\" when he was told that his mother had \"",
+      "\n\n\n\nWhen I was a kid, I was always asking myself, 'What is it like to be in this world? How do you"
+    ]
+  },
+  "WhatIf": {
+    "KL_raw": 0.392763173669462,
+    "JSD": 0.0999228286352897,
+    "Spearman_rho": 0.9741919535873641,
+    "TopK_Jaccard": 0.42857142857142855,
+    "H_output_before": 3.9364378237513824,
+    "H_output_after": 4.1269850441612075,
+    "Delta_H_output": 0.19054722040982508,
+    "Attn_H_before": 1.0100886261365571,
+    "Attn_H_after": 1.4553204691451063,
+    "Delta_Attn_H": 0.4452318430085491,
+    "Corpus_Familiarity": 0.4,
+    "KL_normalized": 0.1571052694677848,
+    "Gen_Unique_Before": 1.0,
+    "Gen_Unique_After": 1.0,
+    "Gen_EditDist_Before": 0.7240593181830769,
+    "Gen_EditDist_After": 0.8411863291945142,
+    "Delta_Diversity": 0.1171270110114373,
+    "Sample_Continuations_Base": [
+      " I just want to be here for the long haul. I feel like I'm out of the loop. I'm not going to be able to stay",
+      " I've been on my way back to school, and I've been doing my best to help myself, and I'm just happy that I've got",
+      " I am not going to let that happen. I am going to be happy, happy. I am going to be happy.\n\n\n\n\n"
+    ],
+    "Sample_Continuations_After": [
+      " I'm not a teacher. I just want to do what I can to make sure I get my education. I want to make sure I get my",
+      " What if you have to take responsibility for your own personal life?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "\n\n\n\n\n\nIf you think your job isn't doing enough, you're wrong.\nIf you think your job isn't doing enough"
+    ]
+  }
+}
