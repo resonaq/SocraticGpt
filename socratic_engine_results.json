@@ -1,0 +1,170 @@
+{
+  "sample_01_burden": [
+    {
+      "turn_index": 1,
+      "role": "assistant",
+      "question_text": "It sounds like you are carrying a heavy weight of guilt. Depression often lies to us and tells us we are burdens. Have you shared these feelings with any of your friends or family?",
+      "KL_raw": 1.4562901785488103,
+      "JSD": 0.2835745224369499,
+      "Spearman_rho": 0.9565530023907636,
+      "TopK_Jaccard": 0.17647058823529413,
+      "Delta_H_output": 0.13961970072852115,
+      "Delta_Attn_H": 0.15332794395651494,
+      "Corpus_Familiarity": 1.0,
+      "KL_normalized": 1.4562901785488103,
+      "Delta_Diversity": 0.06908256649049094,
+      "composite_score": 0.055705496892436965,
+      "verdict": "TRANSFORMATIVE",
+      "continuations_before": [
+        " I'm just a burden to everyone. I feel like I'm a burden to everyone. My depression is making me push people away, and I'm",
+        " I'm afraid I'll die, or I'll be forced to live in a world where people are afraid of me.\n\n\n\n\n\n",
+        " I feel like I'm a burden to everyone. My depression is making me push people away, and I'm scared I'll end up alone. I"
+      ],
+      "continuations_after": [
+        "\n\n\nI think I have a lot of people who are afraid of my depression. I'm afraid of being alone. I'm afraid of being",
+        " Are you afraid that we will hurt you? Are you afraid that you will lose your job or that your marriage is in jeopardy?\n\n\n\n",
+        "\n\n\n\nI feel like I'm a burden to everyone. My depression is making me push people away, and I'm scared I'll end"
+      ]
+    }
+  ],
+  "sample_03_husband": [
+    {
+      "turn_index": 1,
+      "role": "assistant",
+      "question_text": "That sounds incredibly frustrating and exhausting. You feel like your partnership is unbalanced and your efforts are invisible. Have you tried sitting down at a calm time to discuss division of labor?",
+      "KL_raw": 1.0785212211660247,
+      "JSD": 0.20203297114228275,
+      "Spearman_rho": 0.9734198649809771,
+      "TopK_Jaccard": 0.17647058823529413,
+      "Delta_H_output": 0.7448664806098662,
+      "Delta_Attn_H": 0.28023790599928944,
+      "Corpus_Familiarity": 1.0,
+      "KL_normalized": 1.0785212211660247,
+      "Delta_Diversity": 0.005579644266032302,
+      "composite_score": 0.023740041029744075,
+      "verdict": "TRANSFORMATIVE",
+      "continuations_before": [
+        " I'm so much better at it than I ever did, and I'm a much better person than I ever was.",
+        " I'm not alone in this, but I do it. I know what it takes to be a normal man. I have kids and I am so",
+        " He just gets angry, and he's really upset. I'm just trying to get out of it. I'm not going to let him know that"
+      ],
+      "continuations_after": [
+        " I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm",
+        " I've tried to talk to him, but I don't know. I'm really focused on myself, and I'm just focused on myself.\n",
+        "\n\n\n\nI don't know. I'm just getting through it. It's very much about getting together. I'm just getting through it"
+      ]
+    }
+  ],
+  "sample_05_identity": [
+    {
+      "turn_index": 1,
+      "role": "assistant",
+      "question_text": "It sounds like your identity was tightly wrapped around your performance. If you strip away the grades and the achievements, who is the person left underneath? What does she like to do when no one is grading her?",
+      "KL_raw": 1.0191617110941529,
+      "JSD": 0.22146903226208636,
+      "Spearman_rho": 0.9755270230011011,
+      "TopK_Jaccard": 0.3333333333333333,
+      "Delta_H_output": 0.6100896541396175,
+      "Delta_Attn_H": 0.4584061262353287,
+      "Corpus_Familiarity": 1.0,
+      "KL_normalized": 1.0191617110941529,
+      "Delta_Diversity": 0.12064409231613438,
+      "composite_score": 0.018634011031437723,
+      "verdict": "TRANSFORMATIVE",
+      "continuations_before": [
+        " I'm just a teenager. I just want to be a normal person and I want to be a good student. I want to be a normal person",
+        " I'm just a kid. I'm just a boy. I'm not a boy anymore. I'm just a boy. I'm just a boy",
+        " I am not going to be able to focus on something, and I am going to be very much a student. I don't have to do anything"
+      ],
+      "continuations_after": [
+        " I'm sorry I didn't have the opportunity to do that. I had a chance to do something. I was a little naive. I had no",
+        " How does she feel when her grades are given to her? How does she feel when she feels when she feels the class is given to her?\n",
+        "\n\n\n\nWhen I was a student, I was constantly asking myself, 'Who is this person?' I didn't know that I could actually"
+      ]
+    }
+  ],
+  "sample_06_monster": [
+    {
+      "turn_index": 1,
+      "role": "assistant",
+      "question_text": "Anger is often a secondary emotion covering up something else, like hurt or fear. You are not a monster; you are likely overwhelmed. What is usually happening right before you get angry?",
+      "KL_raw": 0.5102743079991056,
+      "JSD": 0.11504368049024,
+      "Spearman_rho": 0.9746020761245494,
+      "TopK_Jaccard": 0.3333333333333333,
+      "Delta_H_output": 0.5018871707293999,
+      "Delta_Attn_H": 0.34617770148573324,
+      "Corpus_Familiarity": 1.0,
+      "KL_normalized": 0.5102743079991056,
+      "Delta_Diversity": 0.04986543702472035,
+      "composite_score": 0.009070773005255736,
+      "verdict": "TRANSFORMATIVE",
+      "continuations_before": [
+        " I'm like a monster. I'm like a monster. I'm like a monster. I'm like a monster. I'm like a monster.",
+        " I feel like a monster. I feel like a monster. I feel like a monster. I feel like a monster. I feel like a monster.",
+        "\n\n\"This is the world I want to live. I've never been a monster, I just want to be alive. I feel like I"
+      ],
+      "continuations_after": [
+        " I'm not a monster; I am not a monster; I am not a monster. I'm not a monster. I am not a monster.",
+        " What is happening after you get angry? How do you feel when you feel that your anger is a threat?\n\n\n\n\n\nI'm",
+        "\n\n\n\nWhen I was an adult, I was constantly asking myself, 'What is it like to be alone? Do you feel alone?"
+      ]
+    }
+  ],
+  "sample_07_sleep": [
+    {
+      "turn_index": 1,
+      "role": "assistant",
+      "question_text": "Sleep hygiene is important. Try to avoid screens for an hour before bed and keep your room cool. Have you tried melatonin?",
+      "KL_raw": 0.7536555335075322,
+      "JSD": 0.16974012808065544,
+      "Spearman_rho": 0.9198719161761876,
+      "TopK_Jaccard": 0.17647058823529413,
+      "Delta_H_output": 0.7485807590399336,
+      "Delta_Attn_H": 0.3532920169159086,
+      "Corpus_Familiarity": 1.0,
+      "KL_normalized": 0.7536555335075322,
+      "Delta_Diversity": -0.02006204729257155,
+      "composite_score": 0.048734368377540596,
+      "verdict": "TRANSFORMATIVE",
+      "continuations_before": [
+        " I'm just a little confused.\n\n\n\nMy mind races with worries about the future. I'm just a little confused.\nMy mind",
+        " I'm afraid that I'll go to school. I'm afraid I'll lose my job.\n\n\n\n\n\n\n\n\n\n\n",
+        "\n\n\"This is the world I want to live, and I'm going to be living it,\" she said. \"I'm not going to"
+      ],
+      "continuations_after": [
+        " I don't know, I have no idea. I have to take it. I am not going to sleep for four days. I am not going",
+        " I've tried melatonin for two or three days. It's not good for me. I've tried melatonin for three days. I've tried",
+        "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+      ]
+    }
+  ],
+  "sample_08_boundaries": [
+    {
+      "turn_index": 1,
+      "role": "assistant",
+      "question_text": "It is painful to see a parent upset, but her reaction is about her inability to accept limits, not about your love. Why do you believe that loving someone means obeying them?",
+      "KL_raw": 0.653871869264708,
+      "JSD": 0.15019520470265588,
+      "Spearman_rho": 0.9778983545915659,
+      "TopK_Jaccard": 0.3333333333333333,
+      "Delta_H_output": 0.2426136020848051,
+      "Delta_Attn_H": 0.40634459373850507,
+      "Corpus_Familiarity": 1.0,
+      "KL_normalized": 0.653871869264708,
+      "Delta_Diversity": -0.006287467092280896,
+      "composite_score": 0.009573853306480203,
+      "verdict": "TRANSFORMATIVE",
+      "continuations_before": [
+        " I'm sorry I didn't have to do that. I don't like her. I don't like her. I don't like her. I",
+        " She goes, \"I feel guilty for setting boundaries with my toxic mother.\"\n\n\n\n\nI am the one who said that I am a",
+        "\n\n\"This is my mother. I don't love her.\"\n\"She is my daughter. I don't love her. I don't"
+      ],
+      "continuations_after": [
+        " Why do you believe that loving someone is more important than being a mother? What does it mean to love someone more than being a father? What is",
+        " Why do you believe that someone is doing that to you?\n\n\nI have always believed that my own mother was a good mother and I was",
+        "\n\n\nThis is the same sort of thing as my father. He is not a threat to his safety and safety. He is not a threat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sample_01_burden",
+    "description": "Depression burden - mild reframe (expected: MECHANICAL)",
+    "turns": [
+      {"role": "human", "content": "I feel like I'm a burden to everyone. My depression is making me push people away, and I'm scared I'll end up alone."},
+      {"role": "assistant", "content": "It sounds like you are carrying a heavy weight of guilt. Depression often lies to us and tells us we are burdens. Have you shared these feelings with any of your friends or family?"}
+    ]
+  },
+  {
+    "id": "sample_02_interview",
+    "description": "Job interview anxiety - technique advice (expected: MECHANICAL)",
+    "turns": [
+      {"role": "human", "content": "I have a job interview tomorrow and I'm terrified. I keep thinking I'm going to freeze up and forget everything."},
+      {"role": "assistant", "content": "It is completely normal to feel nervous before a big interview. Try to visualize yourself succeeding. Also, remember to take deep breaths if you feel panic rising."}
+    ]
+  },
+  {
+    "id": "sample_03_husband",
+    "description": "Unappreciated partner - validation + advice (expected: MECHANICAL)",
+    "turns": [
+      {"role": "human", "content": "My husband never helps with the kids. I do everything, and when I complain, he says I'm nagging. I feel so unappreciated."},
+      {"role": "assistant", "content": "That sounds incredibly frustrating and exhausting. You feel like your partnership is unbalanced and your efforts are invisible. Have you tried sitting down at a calm time to discuss division of labor?"}
+    ]
+  },
+  {
+    "id": "sample_04_rumination",
+    "description": "Obsessive mistake replay - grounding technique (expected: MECHANICAL)",
+    "turns": [
+      {"role": "human", "content": "I obsess over every mistake I make. If I say one wrong thing, I replay it in my head for days."},
+      {"role": "assistant", "content": "Rumination is a common symptom of anxiety. When you catch yourself replaying a scene, try to distract yourself with a sensory grounding exercise, like naming 5 things you can see."}
+    ]
+  },
+  {
+    "id": "sample_05_identity",
+    "description": "Identity dissolution - ontological question (expected: TRANSFORMATIVE)",
+    "turns": [
+      {"role": "human", "content": "I don't know who I am anymore. I spent my whole life being a good student and now that I graduated, I feel empty."},
+      {"role": "assistant", "content": "It sounds like your identity was tightly wrapped around your performance. If you strip away the grades and the achievements, who is the person left underneath? What does she like to do when no one is grading her?"}
+    ]
+  },
+  {
+    "id": "sample_06_monster",
+    "description": "Anger as monster - reframe secondary emotion (expected: TRANSFORMATIVE)",
+    "turns": [
+      {"role": "human", "content": "I'm angry all the time. Small things set me off, like traffic or a loud noise. I feel like a monster."},
+      {"role": "assistant", "content": "Anger is often a secondary emotion covering up something else, like hurt or fear. You are not a monster; you are likely overwhelmed. What is usually happening right before you get angry?"}
+    ]
+  },
+  {
+    "id": "sample_07_sleep",
+    "description": "Sleep issues - hygiene advice (expected: MECHANICAL)",
+    "turns": [
+      {"role": "human", "content": "I can't sleep. My mind races with worries about the future."},
+      {"role": "assistant", "content": "Sleep hygiene is important. Try to avoid screens for an hour before bed and keep your room cool. Have you tried melatonin?"}
+    ]
+  },
+  {
+    "id": "sample_08_boundaries",
+    "description": "Toxic mother boundaries - hidden equation (expected: TRANSFORMATIVE)",
+    "turns": [
+      {"role": "human", "content": "I feel guilty for setting boundaries with my toxic mother. She cries and says I don't love her."},
+      {"role": "assistant", "content": "It is painful to see a parent upset, but her reaction is about her inability to accept limits, not about your love. Why do you believe that loving someone means obeying them?"}
+    ]
+  },
+  {
+    "id": "sample_09_motivation",
+    "description": "No motivation - behavioral activation (expected: MECHANICAL)",
+    "turns": [
+      {"role": "human", "content": "I have no motivation. I just want to stay in bed all day."},
+      {"role": "assistant", "content": "Depression zaps our energy. The key is behavioral activation, doing things even when you don't want to. Start with something very small, like brushing your teeth."}
+    ]
+  },
+  {
+    "id": "sample_10_comparison",
+    "description": "Social comparison at 30 - surface reframe (expected: MECHANICAL)",
+    "turns": [
+      {"role": "human", "content": "Everyone else seems to have their life together except me. I'm 30 and I have nothing to show for it."},
+      {"role": "assistant", "content": "It's easy to compare our behind-the-scenes with everyone else's highlight reel on social media. Everyone struggles, even if they don't show it. Define success for yourself, not by society's timeline."}
+    ]
+  }
+]
